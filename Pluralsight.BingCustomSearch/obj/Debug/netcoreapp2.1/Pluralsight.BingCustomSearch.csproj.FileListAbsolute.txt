@@ -1,0 +1,11 @@
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\bin\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.deps.json
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\bin\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.runtimeconfig.json
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\bin\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.runtimeconfig.dev.json
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\bin\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.dll
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.csprojAssemblyReference.cache
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.AssemblyInfoInputs.cache
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.AssemblyInfo.cs
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\bin\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.pdb
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.dll
+C:\Users\MKruczek\source\repos\Pluralsight.BingCustomSearch\Pluralsight.BingCustomSearch\obj\Debug\netcoreapp2.1\Pluralsight.BingCustomSearch.pdb
